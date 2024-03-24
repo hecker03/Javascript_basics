@@ -11,7 +11,7 @@ let user = {
 // user.username = "Sam"
 // user.welcomemessage() // not hardcoded
 
-// console.log(this);
+// console.log(this); // global execution context - window object
 
 // function code(){
 //     console.log(this);
